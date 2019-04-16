@@ -116,6 +116,25 @@
                 "NRF52_PAN_64"
             ]
         },
+        "NRF52_DIGGRO": {
+            "target.macros_add": [
+                "CONFIG_GPIO_AS_PINRESET",
+                "NRF52_PAN_12",
+                "NRF52_PAN_15",
+                "NRF52_PAN_20",
+                "NRF52_PAN_30",
+                "NRF52_PAN_31",
+                "NRF52_PAN_36",
+                "NRF52_PAN_51",
+                "NRF52_PAN_53",
+                "NRF52_PAN_54",
+                "NRF52_PAN_55",
+                "NRF52_PAN_58",
+                "NRF52_PAN_62",
+                "NRF52_PAN_63",
+                "NRF52_PAN_64"
+            ]
+        },
         "RBLAB_BLENANO2": {
             "target.macros_add": [
                 "CONFIG_GPIO_AS_PINRESET",
